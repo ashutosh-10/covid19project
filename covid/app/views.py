@@ -4,7 +4,7 @@ import json
 url = "https://covid-193.p.rapidapi.com/statistics"
 
 headers = {
-    'x-rapidapi-key': "49f7d49282msh6fcbea08fa06552p1cfe1fjsn2349400f4401",
+    'x-rapidapi-key': "had to hide this because of security concerns",
     'x-rapidapi-host': "covid-193.p.rapidapi.com"
     }
 
